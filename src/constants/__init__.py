@@ -40,3 +40,9 @@ TRANSFORMED_TRAIN_DIR_KEY = 'train.csv'
 TRANSFORMED_TEST_DIR_KEY = 'test.csv'
 
 # Artifact/ data transformation/ Preprocessed -> 'preprocessor.pkl' and Transformed -> train.csv and  test.csv
+
+
+
+# model trainer constants
+MODEL_TRAINER_KEY = 'model_trainer'
+MODEL_OBJECT = 'model.pkl'
